@@ -11,7 +11,7 @@ tags:
   - puppy eyes
   - demon
 ---
-![Being cute in a field](/img/cute-lieke-1.webp "Being cute in a field")
+![Being cute in a field](/img/cute-lieke-1.webp)
 
 # First things first
 
